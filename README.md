@@ -1,1 +1,1 @@
-# CCDC
+# Used for CCDC Competition
